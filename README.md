@@ -1,15 +1,22 @@
-# Ataski Tools
+# 🛠 Ataski Tools
 
-**Quick automation tools**
-
----
+Quick automation utilities.
 
 ## Tools
 
-| Tool | What |
-|------|------|
-| `email_finder.py` | Generate likely email patterns |
+### email_finder.py
+Generate likely email patterns for a domain.
+
+```bash
+python email_finder.py
+# Enter domain: example.com
+```
+
+## Coming Soon
+- Lead enricher
+- Email verifier
+- More utilities...
 
 ---
 
-*More coming soon.*
+**Built by [@ataski](https://x.com/ataski_)**
